@@ -1,7 +1,7 @@
 {
   "name": "@writer/server",
   "version": "1.0.0",
-  "description": " ",
+  "description": "  ",
   "main": "src/index.ts",
   "scripts": {
     "tsc": "tsc --noEmit",
